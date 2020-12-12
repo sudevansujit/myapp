@@ -1,1 +1,1 @@
-My aff Master folder
+My app Master folder
